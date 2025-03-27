@@ -4,6 +4,10 @@
 
 ***- Modelo y Notación de Procesos de Negocios***
 
+***PROCESO:*** Una concatenación lógica de ***actividades*** que cumplen un determinado ***fin***, a través del tiempo y lugar, impulsada por ***eventos***.
+
+***PROCESO DE NEGOCIO:*** Conjunto de actividades que impulsadas por eventos y ejecutándolas en una cierta secuencia crean ***valor para un cliente*** (interno o externo)”
+
 ### BPMN destaca por:
 * Estar ampliamente extendido.
 * Ser facilmente comprensible y altamente expresivo.
