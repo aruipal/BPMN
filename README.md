@@ -2,6 +2,8 @@
 ### BUSINESS PROCESS MODEL AND NOTATION
 <img src="https://github.com/aruipal/BPMN/blob/main/recursos/1_Modelo%20de%20proceso.JPG" alt="modelo" width="900" />
 
+***- Modelo y Notación de Procesos de Negocios***
+
 ### BPMN destaca por:
 * Estar ampliamente extendido.
 * Ser facilmente comprensible y altamente expresivo.
@@ -66,13 +68,19 @@ contenido en el pool de nuestra organización.
 * El evento múltiple permite manejar varios eventos alternativos con un único símbolo.
 * Como evento de entrada (de inicio o intermedio) se requiere únicamente la presencia de uno de los eventos para disparar el proceso.
 * Como evento de salida (intermedio o fin) dispara todos los eventos asociados.
-<img src="" alt="multiple" width="600" />
+<img src="https://github.com/aruipal/BPMN/blob/main/recursos/13_multiple.JPG" alt="multiple" width="600" />
+<img src="https://github.com/aruipal/BPMN/blob/main/recursos/14_multiple.JPG" alt="multiple" width="600" />
 
 ### RESUMEN
+<img src="https://github.com/aruipal/BPMN/blob/main/recursos/resumen1.JPG" width="600" />
+<img src="https://github.com/aruipal/BPMN/blob/main/recursos/resumen2.JPG" width="600" />
+<img src="https://github.com/aruipal/BPMN/blob/main/recursos/resumen3.JPG" width="600" />
+<img src="https://github.com/aruipal/BPMN/blob/main/recursos/resumen4.JPG" width="600" />
 
 ### DECISOR COMPLEJO
 
-### 
+### ACTIVIDADES CON EVENTOS SOBREPUESTOS
+
 
 
 
