@@ -2,6 +2,17 @@
 ### BUSINESS PROCESS MODEL AND NOTATION
 <img src="https://github.com/aruipal/BPMN/blob/main/recursos/1_Modelo%20de%20proceso.JPG" alt="modelo" width="900" />
 
+### BPMN destaca por:
+* Estar ampliamente extendido.
+* Ser facilmente comprensible y altamente expresivo.
+* Ser un estandar ISO.
+* Facilitar la automatización.
+* Existencia de multiples herramientas que manejan este estándar, lo que facilita el intercambio de información.
+
+### NOTACIÓN BASICA
+* Se realiza mediante diagramas que emplean un conjunto reducido de objetos.
+* Se pretende que los procesos descritos sean fáciles de entender por todos los usuarios implicados.
+
 ### EVENTOS BÁSICOS
 <img src="https://github.com/aruipal/BPMN/blob/main/recursos/2_Eventos%20basicos.JPG" alt="basico" width="600" />
 
@@ -50,6 +61,18 @@ contenido en el pool de nuestra organización.
 <img src="https://github.com/aruipal/BPMN/blob/main/recursos/11_Eventos%20de%20tiempo.JPG" alt="basico" width="600" />
 - Ejemplo:
 <img src="https://github.com/aruipal/BPMN/blob/main/recursos/12_Eventos%20de%20tiempo.JPG" alt="basico" width="900" />
+
+### EVENTOS MULTIPLE
+* El evento múltiple permite manejar varios eventos alternativos con un único símbolo.
+* Como evento de entrada (de inicio o intermedio) se requiere únicamente la presencia de uno de los eventos para disparar el proceso.
+* Como evento de salida (intermedio o fin) dispara todos los eventos asociados.
+<img src="" alt="multiple" width="600" />
+
+### RESUMEN
+
+### DECISOR COMPLEJO
+
+### 
 
 
 
